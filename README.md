@@ -18,4 +18,4 @@ python3 prova_pizza_hashcode.py
 *   **Alessandro Scandone**  - [github](https://github.com/ascandone)
 *   **Riccardo Taiello**  - [github](https://github.com/Riccardinho22)
 <br>
-N.B: Alphabetical fair contribution
+N.B: Alphabetical order <--> fair contribution
