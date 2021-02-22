@@ -3,6 +3,11 @@
 
 Our naive solution for the Practice Round.
 
+## Main idea
+This solution proposes to first select the largest team that can be served with 
+the current amount of pizzas, then greedily selecting the pizzas whose toppings
+are the least overlapping.
+
 ## Usage
 ```sh
 python3 prova_pizza_hashcode.py
